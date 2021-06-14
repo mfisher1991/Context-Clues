@@ -1,4 +1,4 @@
-var friends = ['Billy Bob Thornton', 'Lena Dunham', 'Dane Cook', 'Ron Paul', 'Jesz'];
+var friends = ['Smoke Waters', 'James Brown', 'Jamal Cook', 'Mike Long', 'Chad Chaney'];
 var locations = ['the beach', 'the Grand Canyon', 'Innovation Depot', 'the gas station across the strte from I.D.', `Sam Bonner's residence`,
     'the cabin in the woods', `SlapChop Vince's house`, 'the bathroom at the Plaza', 'Saturn Birmingham', 'the Sewers of Rio de Janeiro'
 ];
